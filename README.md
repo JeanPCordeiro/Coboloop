@@ -5,4 +5,4 @@ Cobol parser to identify dead loop on code
 
 # Usage
 '''
-node analyzeCobol.js <startFunction> <filePath>
+node analyzeCobol.js startFunction filePath
